@@ -1,3 +1,5 @@
+![Ilustración del Capítulo 1](../assets/capitulo-1.png)
+
 # Capítulo 1: De tu Móvil al Futuro: ¿Qué es la IA y de Dónde Viene?
 
 ¿Alguna vez te has preguntado cómo Netflix sabe exactamente qué serie te va a enganchar? ¿O cómo el filtro de tu móvil te convierte en un personaje de anime con solo un clic? Si has respondido que sí, ¡felicidades! Ya eres un usuario diario de Inteligencia Artificial (IA).

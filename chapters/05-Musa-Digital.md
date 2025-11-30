@@ -1,3 +1,5 @@
+![Ilustración del Capítulo 5](../assets/capitulo-5.png)
+
 # Capítulo 5: Tu Musá Digital: IA para la Creatividad
 
 La creatividad no es un don mágico que solo tienen los artistas. Es la capacidad de resolver problemas de formas nuevas, de conectar ideas que parecen no tener relación, de imaginar algo y hacerlo realidad. Y en este proceso, la IA puede ser tu mejor aliada, una musa digital que nunca se queda sin ideas.

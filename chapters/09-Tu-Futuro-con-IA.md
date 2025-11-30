@@ -1,3 +1,5 @@
+![Ilustración del Capítulo 9](../assets/capitulo-9.png)
+
 # Capítulo 9: Tu Futuro en un Mundo con IA: Amenazas, Oportunidades y Cómo Empezar
 
 Hemos llegado al final de nuestro viaje... o más bien, al final del principio.

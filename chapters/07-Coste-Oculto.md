@@ -1,3 +1,5 @@
+![Ilustración del Capítulo 7](../assets/capitulo-7.png)
+
 # Capítulo 7: El Coste Oculto de la IA: Tus Datos, el Planeta y los Derechos de Autor
 
 Las herramientas de IA a menudo parecen mágicas y, en muchos casos, gratuitas. Pero nada es realmente gratis. El funcionamiento de estas tecnologías tiene costes muy reales que no siempre se ven a simple vista. En este capítulo, vamos a encender la luz para descubrir tres de los "costes ocultos" más importantes de la inteligencia artificial.

@@ -1,3 +1,5 @@
+![Ilustración del Capítulo 3](../assets/capitulo-3.png)
+
 # Capítulo 3: El Arte de la Conversación: Prompting para Dominar la IA
 
 Usar una Inteligencia Artificial Generativa es como tener acceso a un genio de la lámpara. Puede concederte casi cualquier deseo relacionado con la información o la creatividad, pero tiene un truco: tienes que pedirlo de la forma correcta. El genio es increíblemente poderoso y rápido, pero también es muy literal. No puede leerte la mente.

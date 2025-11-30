@@ -1,3 +1,5 @@
+![Ilustración del Capítulo 8](../assets/capitulo-8.png)
+
 # Capítulo 8: El Impacto Humano: La "Caja Negra" y el Futuro del Trabajo
 
 Hemos explorado los problemas del contenido que genera la IA y los costes ocultos de su funcionamiento. Ahora, vamos a centrarnos en dos de las áreas que más nos afectan como personas: nuestra capacidad para entender estas herramientas y el impacto que tendrán en nuestro futuro profesional.

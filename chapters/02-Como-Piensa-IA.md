@@ -1,3 +1,5 @@
+![Ilustración del Capítulo 2](../assets/capitulo-2.png)
+
 # Capítulo 2: No es Magia, es Lógica: Cómo "Piensa" una IA
 
 Cuando decimos que una IA "piensa" o "aprende", no nos referimos a que tenga conciencia o sentimientos. Una IA no se siente feliz cuando resuelve un problema ni triste cuando se equivoca. Su "pensamiento" es un proceso puramente lógico y matemático.

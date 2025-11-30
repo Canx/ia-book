@@ -1,3 +1,5 @@
+![Ilustración del Capítulo 4](../assets/capitulo-4.png)
+
 # Capítulo 4: Tu Asistente para la Lógica: IA para Estudiar y Programar
 
 Ahora que sabes cómo dar buenas instrucciones, es hora de poner a tu "genio" a trabajar en tareas lógicas. Piensa en la IA no como una calculadora que te da la respuesta final, sino como un compañero de laboratorio que te ayuda a mezclar los ingredientes, a entender la reacción y a limpiar los tubos de ensayo. El objetivo es que tú aprendas más y más rápido.

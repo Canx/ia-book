@@ -1,3 +1,5 @@
+![Ilustración del Capítulo 6](../assets/capitulo-6.png)
+
 # Capítulo 6: Contenido Peligroso: Sesgos, "Alucinaciones" y Desinformación
 
 Hasta ahora hemos visto lo increíblemente útil y creativa que puede ser la IA. Pero, como cualquier tecnología poderosa, tiene su lado oscuro, sus limitaciones y sus peligros. Ignorar estos aspectos sería como conducir un coche deportivo sin frenos. Es crucial entenderlos para usar la IA de forma responsable y con pensamiento crítico.
